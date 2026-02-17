@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Program/Program.csproj" />
+  <Project Path="BibliothequeEtudiant/BibliothequeEtudiant.csproj" />
+  <Project Path="TestUnitaireEtudiant/TestUnitaireEtudiant.csproj" />
+</Solution>
